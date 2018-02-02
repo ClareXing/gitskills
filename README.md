@@ -4,6 +4,7 @@ Creating a new branch is quick and simple.
 
 dosome  change on dev branch
 
-修复bug 101
+修复bug 101 the second time 
+
 
 
